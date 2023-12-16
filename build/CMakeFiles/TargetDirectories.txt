@@ -1,0 +1,3 @@
+/home/zhb15/shares/Shares/C++/linux/http/cpp/build/CMakeFiles/test.dir
+/home/zhb15/shares/Shares/C++/linux/http/cpp/build/CMakeFiles/edit_cache.dir
+/home/zhb15/shares/Shares/C++/linux/http/cpp/build/CMakeFiles/rebuild_cache.dir
